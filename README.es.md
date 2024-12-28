@@ -7,6 +7,10 @@ Lea este README en otros idiomas:
 
 Task Tracker es un proyecto utilizado para rastrear y gestionar tus tareas. En este proyecto, crearás una interfaz de línea de comandos simple (CLI) para rastrear lo que necesitas hacer, lo que ya has hecho y en lo que estás trabajando actualmente. Este proyecto te ayudará a practicar tus habilidades de programación, incluyendo trabajar con el sistema de archivos, manejar entradas del usuario y construir una aplicación CLI sencilla.
 
+## Roadmap.sh
+
+https://roadmap.sh/projects/task-tracker
+
 ## Requisitos
 
 La aplicación debe ejecutarse desde la línea de comandos, aceptar acciones e inputs del usuario como argumentos, y almacenar las tareas en un archivo JSON. El usuario debe ser capaz de:
